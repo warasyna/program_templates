@@ -1,0 +1,3 @@
+hoge fuga hoge fuga
+foo bar buz
+piyo fuga piyo hoge
